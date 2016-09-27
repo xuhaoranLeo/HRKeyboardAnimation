@@ -1,7 +1,8 @@
 # HRKeyboardAnimation
 傻瓜式防键盘遮挡输入
 
-***
+CocoaPod:
+- pod 'HRKeyboardAnimation', '~> 0.0.1'
 
 ###只需要三步就可以完成操作
 
